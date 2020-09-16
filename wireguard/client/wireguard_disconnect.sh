@@ -1,2 +1,3 @@
 #!/bin/sh
 wg-quick down wg0
+
