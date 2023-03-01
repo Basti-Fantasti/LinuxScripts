@@ -14,3 +14,5 @@
     ln -s ~/default-sync/LinuxScripts/tmux/tmux.conf ~/.tmux.conf
 
 PREFIX-I to load tpm plugins
+
+der Prefix ist Ctrl+Y und großes i -> I
